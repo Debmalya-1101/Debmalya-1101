@@ -24,8 +24,8 @@ I am a backend-focused software engineer who has contributed to multiple enterpr
 I have had the opportunity to contribute to several large-scale enterprise projects, collaborating within Agile teams to deliver business value:
 
 - 📊 **Global Data Insight Platform (Current):** Contributing to a large-scale enterprise platform where I primarily develop Java Spring Boot backend services and modernize legacy business logic into secure REST APIs. I work closely with SQL databases and enterprise integrations, collaborate with Angular frontend developers, write comprehensive unit and integration tests, improve code quality using SonarQube, and maintain detailed API documentation.
-- 📈 **Consumer Insights & Analytics Web Application:** Contributed to an enterprise analytics platform where I gained experience building and maintaining business applications while collaborating seamlessly within Agile teams.
-- 🧬 **Portal for Quality Control Product Inserts:** Contributed to a life-sciences application focused on improving access to critical product documentation, helping build user-facing functionality and collaborating with cross-functional teams.
+- 📈 **Consumer Insights & Analytics Web Application:** Key contributor in a massive modernization effort, migrating core modules from Java 8 to Java 17, TomEE 8 to TomEE 9, and Struts 1 to Struts 2. Optimized legacy codebases to align with modern best practices, resolved complex server migration challenges, and collaborated extensively with QA and architectural teams for end-to-end validation. *(Tech: Java 17, Struts 2, TomEE, SonarQube)*
+- 🧬 **Quality Control Product Portal:** Served as a primary Frontend Developer for a life-sciences application. Engineered complex UI functionalities utilizing Angular, RxJS, and TypeScript. Integrated frontend modules with secure RESTful web services, took ownership of critical UI components, and collaborated closely with clients during Agile sprint planning to ensure seamless user experiences. *(Tech: Angular, TypeScript, RxJS)*
 
 <br/>
 
