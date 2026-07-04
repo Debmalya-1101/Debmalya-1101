@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Debmalya Dutta 👋</h1>
-  <h3>Software Engineer | Backend Focused | AI-Accelerated</h3>
+  <h3>Software Engineer | Java Backend Developer | AI-Assisted Engineering</h3>
   <img src="https://komarev.com/ghpvc/?username=Debmalya-1101&color=4285F4&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Badge"/>
 </div>
 
@@ -8,12 +8,12 @@
 
 ## 👨‍💻 About Me
 
-I am a backend-focused software engineer who has contributed to multiple enterprise client applications across analytics, life sciences, and data platforms. Outside of work, I build ambitious personal backend projects to deepen my expertise in modern Java, Spring Boot, security, cloud, DevOps, and AI-assisted development. I believe strong engineering fundamentals combined with responsible AI usage lead to better software and continuous growth.
+I'm a backend-focused software engineer with experience building enterprise applications across analytics, life sciences, and data platforms. At work, I primarily develop Java and Spring Boot applications, while outside of work I enjoy building personal projects to explore modern backend technologies, security, cloud, DevOps, and AI-assisted development workflows. I enjoy understanding how systems work under the hood and believe continuous learning is one of the most important qualities of a software engineer.
 
 ### ⚡ Quick Facts
 - 💼 **Role:** Software Engineer working on enterprise Java/Angular platforms.
 - ⚙️ **Focus:** Clean architecture, API design, and secure backend systems.
-- 🤖 **Workflow:** Utilizing AI responsibly as a force multiplier for engineering.
+- 🤖 **Workflow:** Using AI tools to accelerate development, debugging, documentation, and learning.
 - ☁️ **Certifications:** Microsoft Certified: Azure Fundamentals (AZ-900) & Azure AI Fundamentals (AI-900).
 - 🧠 **Training:** Anthropic Academy (Claude 101, Intro to MCP) & internal AI tooling training.
 
@@ -29,9 +29,9 @@ I have had the opportunity to contribute to several large-scale enterprise proje
 
 <br/>
 
-## 🔬 Personal Engineering: The Laboratory
+## 🚀 Engineering Playground
 
-Outside of my professional commitments, I maintain personal flagship projects that serve as my engineering laboratory. This is where I intentionally explore modern backend concepts and production-grade architecture.
+Outside of work, I enjoy building personal projects where I can experiment with technologies beyond my day-to-day enterprise development. These projects help me explore production-grade backend architecture, modern development practices, and new ideas at my own pace.
 
 ### 🛒 Flagship Project: E-Commerce Platform
 My primary focus is a robust, full-stack e-commerce architecture separated into backend and frontend repositories:
@@ -58,16 +58,28 @@ My primary focus is a robust, full-stack e-commerce architecture separated into 
 - **Security:** Spring Security, JWT, OAuth2.
 - **Data:** MySQL, Flyway migrations, Optimistic Locking.
 - **DevOps & Quality:** Docker, GitHub Actions, CI/CD, OpenAPI, Unit & Integration Testing.
-- **Workflow:** Heavy integration of AI-assisted development practices.
+- **Workflow:** AI-assisted development for architecture discussions, debugging, documentation, testing, and developer productivity.
 
 <br/>
 
 ## 🤖 AI-Assisted Engineering
 
-I integrate modern AI tools to accelerate my engineering workflow, allowing me to focus my expertise on complex architectural decisions and high-level problem-solving. 
-- **Professional Workflow:** I regularly use client-provided **GitHub Copilot** to optimize my daily development. I have created custom skills, prompts, and reusable workflows to drastically improve engineering productivity.
-- **Continuous Exploration:** I actively explore **Google Antigravity, Claude, Cursor, Codex, Model Context Protocol (MCP), and AI Agents**.
-- **Practical Application:** I leverage AI for brainstorming architecture, automating code reviews, generating documentation, intelligent debugging, learning new technologies, and automating repetitive tasks. 
+I rely on strong software engineering fundamentals and use AI tools every day to make development more efficient. Whether it's brainstorming ideas, debugging, reviewing code, or learning new technologies, AI helps me work faster while engineering decisions remain my own.
+- **Professional Workflow:** I regularly use client-provided **GitHub Copilot** to optimize my daily development. I have created custom skills, prompts, and reusable workflows that help streamline development, improve documentation, and reduce repetitive work.
+- **Continuous Exploration:** I actively explore **Google Antigravity, Claude, Cursor, Codex, Model Context Protocol (MCP), and AI Agents** to better understand how modern AI can improve software engineering workflows.
+- **Practical Application:** I leverage AI for brainstorming architecture, automating code reviews, generating documentation, intelligent debugging, learning new technologies, and automating repetitive tasks.
+
+<br/>
+
+## 💡 Engineering Interests
+
+- Backend Architecture
+- Spring Security
+- Authentication & Authorization
+- API Design
+- Performance Optimization
+- AI-assisted Software Development
+- Developer Productivity
 
 <br/>
 
@@ -126,13 +138,22 @@ I integrate modern AI tools to accelerate my engineering workflow, allowing me t
 
 <br/>
 
-## 📫 Connect With Me
+---
+
+## 🤝 Let's Connect
+
+Technology is evolving quickly, and I enjoy learning through building, experimenting, and conversations with other developers.
+
+If you share an interest in Java, backend engineering, Spring Boot, AI-assisted development, or modern software architecture, feel free to reach out. I'm always open to exchanging ideas, learning something new, or collaborating on interesting projects.
 
 <div align="center">
-  <a href="mailto:debmalyad2001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/debmalya-dutta/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+
+<a href="mailto:debmalyad2001@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/debmalya-dutta/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
