@@ -37,12 +37,18 @@ Outside of my professional commitments, I maintain personal flagship projects th
 My primary focus is a robust, full-stack e-commerce architecture separated into backend and frontend repositories:
 
 <div align="center">
-  <a href="https://github.com/Debmalya-1101/Shopping-Cart-BE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debmalya-1101&repo=Shopping-Cart-BE&theme=transparent&hide_border=true&title_color=4285F4&icon_color=4285F4" alt="Shopping Cart BE" width="48%" />
-  </a>
-  <a href="https://github.com/Debmalya-1101/Modern-Ecommerce-UI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debmalya-1101&repo=Modern-Ecommerce-UI&theme=transparent&hide_border=true&title_color=4285F4&icon_color=4285F4" alt="Modern Ecommerce UI" width="48%" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🛒 <a href="https://github.com/debmalya-dev/Shopping-Cart-BE">Shopping-Cart-BE</a></h3>
+        <p><em>Backend Architecture (Java, Spring Boot)</em></p>
+      </td>
+      <td align="center" width="50%">
+        <h3>🌐 <a href="https://github.com/debmalya-dev/Modern-Commerce-UI">Modern-Commerce-UI</a></h3>
+        <p><em>Frontend Application (Angular, Tailwind)</em></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 **🚀 Live Application:** [Nexis Store](https://nexis-store-sigma.vercel.app/)
@@ -58,7 +64,7 @@ My primary focus is a robust, full-stack e-commerce architecture separated into 
 
 ## 🤖 AI-Assisted Engineering
 
-AI is an important—but secondary—part of my identity. It does not replace my software engineering expertise; it accelerates it. 
+I integrate modern AI tools to accelerate my engineering workflow, allowing me to focus my expertise on complex architectural decisions and high-level problem-solving. 
 - **Professional Workflow:** I regularly use client-provided **GitHub Copilot** to optimize my daily development. I have created custom skills, prompts, and reusable workflows to drastically improve engineering productivity.
 - **Continuous Exploration:** I actively explore **Google Antigravity, Claude, Cursor, Codex, Model Context Protocol (MCP), and AI Agents**.
 - **Practical Application:** I leverage AI for brainstorming architecture, automating code reviews, generating documentation, intelligent debugging, learning new technologies, and automating repetitive tasks. 
@@ -98,18 +104,7 @@ AI is an important—but secondary—part of my identity. It does not replace my
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Debmalya-1101&theme=flat&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Debmalya-1101&show_icons=true&theme=transparent&hide_border=true&title_color=4285F4&icon_color=4285F4" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Debmalya-1101&theme=transparent&hide_border=true&title_color=4285F4&icon_color=4285F4" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debmalya-1101&layout=compact&theme=transparent&hide_border=true&title_color=4285F4" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Debmalya-1101&theme=transparent&hide_border=true&title_color=4285F4&icon_color=4285F4" alt="GitHub Streak" />
 </div>
 
 <br/>
