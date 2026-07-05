@@ -1,7 +1,15 @@
 <div align="center">
-  <h1>Hi, I'm Debmalya Dutta 👋</h1>
-  <h3>Software Engineer | Java Backend Developer | AI-Assisted Engineering</h3>
-  <img src="https://komarev.com/ghpvc/?username=Debmalya-1101&color=4285F4&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Badge"/>
+
+<h1>Hi, I'm Debmalya Dutta 👋</h1>
+<p><em>Building reliable backend systems while exploring the future of AI-assisted software engineering.</em></p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=4285F4&center=true&vCenter=true&width=650&height=55&lines=Software+Engineer;Java+Backend+Developer;Building+Secure+REST+APIs;Exploring+AI-Assisted+Engineering;Always+Curious%2C+Always+Learning" alt="Typing SVG" /></a>
+<br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=Debmalya-1101&color=4285F4&style=flat-square&label=PROFILE+VIEWS"
+  alt="Profile Views" />
+
 </div>
 
 <br/>
