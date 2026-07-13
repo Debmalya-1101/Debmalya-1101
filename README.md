@@ -48,11 +48,11 @@ My primary focus is a robust, full-stack e-commerce architecture separated into 
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>🛒 <a href="https://github.com/debmalya-dev/Shopping-Cart-BE">Nexis Store Backend API</a></h3>
+        <h3>🛒 <a href="https://github.com/Debmalya-1101/Shopping-Cart-BE">Nexis Store Backend API</a></h3>
         <p><em>Backend Architecture (Java, Spring Boot)</em></p>
       </td>
       <td align="center" width="50%">
-        <h3>🌐 <a href="https://github.com/debmalya-dev/Modern-Commerce-UI">Nexis Store Frontend</a></h3>
+        <h3>🌐 <a href="https://github.com/Debmalya-1101/Modern-Commerce-UI">Nexis Store Frontend</a></h3>
         <p><em>Frontend Application (Angular, Typescript, Tailwind)</em></p>
       </td>
     </tr>
