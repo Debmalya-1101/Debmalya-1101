@@ -53,7 +53,7 @@ My primary focus is a robust, full-stack e-commerce architecture separated into 
       </td>
       <td align="center" width="50%">
         <h3>🌐 <a href="https://github.com/debmalya-dev/Modern-Commerce-UI">Nexis Store Frontend</a></h3>
-        <p><em>Frontend Application (Angular, Tailwind)</em></p>
+        <p><em>Frontend Application (Angular, Typescript, Tailwind)</em></p>
       </td>
     </tr>
   </table>
