@@ -1,9 +1,9 @@
 <div align="center">
 
 <h1>Hi, I'm Debmalya Dutta 👋</h1>
-<p><em>Building reliable backend systems while exploring the future of AI-assisted software engineering.</em></p>
+<p><em>Building reliable backend systems while applying AI-assisted engineering and exploring AI agents.</em></p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=4285F4&center=true&vCenter=true&width=650&height=55&lines=Software+Engineer;Java+Backend+Developer;Building+Secure+REST+APIs;Exploring+AI-Assisted+Engineering;Always+Curious%2C+Always+Learning" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=4285F4&center=true&vCenter=true&width=650&height=55&lines=Software+Engineer;Java+Backend+Developer;Building+Secure+REST+APIs;Building+AI-Powered+Applications;AI-Assisted+Engineering;Always+Curious%2C+Always+Learning" alt="Typing SVG" /></a>
 <br/>
 
 <img
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a backend-focused software engineer with experience building enterprise applications across analytics, life sciences, and data platforms. At work, I primarily develop Java and Spring Boot applications, while outside of work I enjoy building personal projects to explore modern backend technologies, security, cloud, DevOps, and AI-assisted development workflows. I enjoy understanding how systems work under the hood and believe continuous learning is one of the most important qualities of a software engineer.
+I'm a backend-focused software engineer with experience building enterprise applications across analytics, life sciences, and data platforms. At work, I primarily develop Java and Spring Boot applications, while outside of work I enjoy building personal projects to explore modern backend technologies, security, cloud, DevOps, AI-assisted development workflows, and practical AI agent integration. I enjoy understanding how systems work under the hood and believe continuous learning is one of the most important qualities of a software engineer.
 
 ### ⚡ Quick Facts
 - 💼 **Role:** Software Engineer working on enterprise Java/Angular platforms.
@@ -42,7 +42,9 @@ I have had the opportunity to contribute to several large-scale enterprise proje
 Outside of work, I enjoy building personal projects where I can experiment with technologies beyond my day-to-day enterprise development. These projects help me explore production-grade backend architecture, modern development practices, and new ideas at my own pace.
 
 ### 🛒 Flagship Project: E-Commerce Platform
-My primary focus is a robust, full-stack e-commerce architecture separated into backend and frontend repositories:
+My primary focus is a robust, full-stack e-commerce architecture separated into backend and frontend repositories.
+
+The platform now includes an **Agentic AI Shopping Assistant** built with **Spring AI and Google Gemini**, allowing users to interact conversationally with the application and perform shopping-related actions through backend tool execution.
 
 <div align="center">
   <table>
@@ -61,21 +63,23 @@ My primary focus is a robust, full-stack e-commerce architecture separated into 
 
 **🚀 Live Application:** [Nexis Store](https://nexis-store-sigma.vercel.app/)
 
-**Key Laboratory Technologies & Practices:**
-- **Core:** Java, Spring Boot, Clean Architecture, REST APIs.
+**Key Technologies & Engineering Practices:**
+- **Core:** Java 21, Spring Boot 3.5, Spring Data JPA, Clean Architecture, REST APIs.
+- **AI:** Spring AI, Google Gemini, AI Agents, Tool Calling, JPA Chat Memory.
 - **Security:** Spring Security, JWT, OAuth2.
-- **Data:** MySQL, Flyway migrations, Optimistic Locking.
-- **DevOps & Quality:** Docker, GitHub Actions, CI/CD, OpenAPI, Unit & Integration Testing.
-- **Workflow:** AI-assisted development for architecture discussions, debugging, documentation, testing, and developer productivity.
+- **Data:** TiDB Cloud, Flyway migrations, Optimistic Locking.
+- **DevOps & Quality:** Docker, GitHub Actions, OpenAPI, Unit & Integration Testing.
+- **Workflow:** AI-assisted development for architecture exploration, debugging, documentation, testing, and developer productivity.
 
 <br/>
 
 ## 🤖 AI-Assisted Engineering
 
-I rely on strong software engineering fundamentals and use AI tools every day to make development more efficient. Whether it's brainstorming ideas, debugging, reviewing code, or learning new technologies, AI helps me work faster while engineering decisions remain my own.
+I rely on strong software engineering fundamentals and use AI tools every day to make development more efficient. Whether it's brainstorming ideas, debugging, documenting, or learning new technologies, AI helps me work faster while engineering decisions remain my own.
+
 - **Professional Workflow:** I regularly use client-provided **GitHub Copilot** to optimize my daily development. I have created custom skills, prompts, and reusable workflows that help streamline development, improve documentation, and reduce repetitive work.
 - **Continuous Exploration:** I actively explore **Google Antigravity, Claude, Cursor, Codex, Model Context Protocol (MCP), and AI Agents** to better understand how modern AI can improve software engineering workflows.
-- **Practical Application:** I leverage AI for brainstorming architecture, automating code reviews, generating documentation, intelligent debugging, learning new technologies, and automating repetitive tasks.
+- **Practical Application:** I leverage AI for architecture exploration, debugging, documentation, testing, learning new technologies, and automating repetitive engineering tasks.
 
 <br/>
 
@@ -86,6 +90,7 @@ I rely on strong software engineering fundamentals and use AI tools every day to
 - Authentication & Authorization
 - API Design
 - Performance Optimization
+- AI Agents & LLM Integration
 - AI-assisted Software Development
 - Developer Productivity
 
@@ -122,6 +127,13 @@ I rely on strong software engineering fundamentals and use AI tools every day to
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### 🧠 AI Application Development
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6B5B95?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-5B6C8F?style=for-the-badge)
+![JPA Chat Memory](https://img.shields.io/badge/JPA_Chat_Memory-3F6E8C?style=for-the-badge)
+
 ### 🤖 AI & Developer Productivity
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -132,8 +144,9 @@ I rely on strong software engineering fundamentals and use AI tools every day to
 
 ## 🚀 Currently Exploring & 2026 Learning Roadmap
 
-- 🔭 **Currently Exploring:** Integrating AI agents into traditional backend services using Model Context Protocol (MCP).
-- 🗺️ **2026 Roadmap:** Deepening expertise in Cloud-Native architectures, mastering advanced CI/CD pipelines, and expanding my knowledge of distributed systems and event-driven microservices.
+- 🔭 **Currently Building:** AI-powered backend features using Spring AI, Google Gemini, tool calling, and persistent conversational memory.
+- 🧭 **Currently Exploring:** Model Context Protocol (MCP) and practical patterns for integrating AI agents with backend systems.
+- 🗺️ **2026 Roadmap:** Deepening expertise in cloud-native architectures, advanced CI/CD pipelines, distributed systems, and event-driven microservices.
 
 <br/>
 
